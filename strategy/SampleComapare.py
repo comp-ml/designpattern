@@ -5,4 +5,3 @@ class SampleCompare():
 
     def compare(h1, h2):
         return self.compare_cls.compare(h1 ,h2)
-        
