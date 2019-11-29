@@ -1,5 +1,5 @@
 import abc
-class IClonable(metaclass  = abc.ABCMeta):
+class IClonable(metaclass = abc.ABCMeta):
     @abc.abstractmethod
     def createClone(self):
         pass
